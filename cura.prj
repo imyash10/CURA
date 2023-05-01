@@ -6,6 +6,7 @@
    <UUID>40bbf8ae-1038-4a21-8705-d60232d4a85f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\yash.sk\git\cura\cura.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
