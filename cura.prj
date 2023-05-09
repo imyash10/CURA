@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>cura</name>
+   <name>curaJenkins</name>
    <tag></tag>
    <UUID>40bbf8ae-1038-4a21-8705-d60232d4a85f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\yash.sk\git\cura\cura.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\yash.sk\git\curaJenkins\cura.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
